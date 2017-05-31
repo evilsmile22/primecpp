@@ -1,1 +1,1 @@
-# primecpp
+# primecpp exercises
